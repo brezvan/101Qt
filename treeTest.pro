@@ -3,7 +3,7 @@
 ######################################################################
 
 TEMPLATE = app
-TARGET = 
+TARGET = 101Qt
 DEPENDPATH += .
 INCLUDEPATH += .
 

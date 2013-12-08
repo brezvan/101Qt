@@ -17,7 +17,6 @@
 #include "newEmployeedialog.h"
 #include "newDepartmentdialog.h"
 #include "movedialog.h"
-#include "setmanager.h"
 
 
 MainWindow::MainWindow(QWidget *parent) :
